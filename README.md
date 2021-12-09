@@ -3,7 +3,7 @@
 ## Tensorflow-Portfolios:
 Deep learning Tensorflow Keras projects in Image Classification, NLP and TSA
 
-## [Rock, Paper, Scissors Hand Gestures Image Classification Project](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Batu_Gunting_Kertas.ipynb)
+### [Rock, Paper, Scissors Hand Gestures Image Classification Project](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Batu_Gunting_Kertas.ipynb)
 (https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Batu_Gunting_Kertas.ipynb)
 
 This is my first ever project using the Tensorflow Keras library as part of a machine learning course I took in Dicoding. The first task assigned in the course was to build a neural network using the Tensorflow Keras library to classify images of "rock, paper and scissors" hand gestures
@@ -18,7 +18,7 @@ This is my first ever project using the Tensorflow Keras library as part of a ma
 
 
 
-## [NLP Text Classification of News Articles Project](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/RahmadiRidwan_Proyek1NLP.ipynb)
+### [NLP Text Classification of News Articles Project](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/RahmadiRidwan_Proyek1NLP.ipynb)
 (https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/RahmadiRidwan_Proyek1NLP.ipynb)
 
 This is my first NLP project with Tensorflow Keras and my second Tensorflow project overall. This is also a project which is part of the machine learning course I took in Dicoding and this is the second task that I was assigned 
@@ -33,7 +33,7 @@ This is my first NLP project with Tensorflow Keras and my second Tensorflow proj
 * The model is then fitted against the training along with the validation dataset for up to 12 epochs
 * The model is shown to be effective in producing a training accuracy of 99.83% and a validation accuracy of 95.28% 
 
-## [Time Series Analysis on Climate Data](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Time_Series.ipynb)
+### [Time Series Analysis on Climate Data](https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Time_Series.ipynb)
 https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Time_Series.ipynb
 
 This is my final project in the Dicoding machine learning course as well as my first time series analysis project that implements the Tensorflow Keras library
