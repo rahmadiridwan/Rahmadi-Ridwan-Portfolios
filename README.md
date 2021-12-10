@@ -8,7 +8,7 @@ Deep learning Tensorflow Keras projects in Image Classification, NLP and TSA
 (https://github.com/rahmadiridwan/Tensorflow-Portfolio/blob/main/Batu_Gunting_Kertas.ipynb)
 
 This is my first ever project using the Tensorflow Keras library as part of a machine learning course I took in Dicoding. The first task assigned in the course was to build a neural network using the Tensorflow Keras library to classify images of "rock, paper and scissors" hand gestures
-* The raw dataset contains over 2188 sample pictures of rock, paper and scissors hand gestures (of roughly equal amount for each)
+* The raw dataset contains 2188 sample pictures of rock, paper and scissors hand gestures (of roughly equal amount for each)
 * An ImageDataGenerator is deployed for augmentation purposes (to reduce bias in the training process)
 * A sequential model consisting of 3 convolutional hidden layers (consisting of a 2 dimensional convolution layer and a max pooling layer) followed by a hidden dense layer (after flattening the output of the convolutional layers) is constructed to train the classifier. Dropout layers set at a rate of 20% are also applied alternately after layers to prevent overfitting.
 * A callback API, ReduceLROnPlateau is also implemented before compiling the model to reduce the learning rate by a factor of 0.5 should the model 'plateaus' (or in other words, the learning rate stagnates)
